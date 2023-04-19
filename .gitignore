@@ -1,0 +1,6 @@
+*.png
+*.jpg
+img/
+.null-ls*
+node_modules
+dist
